@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "page0"
+  title: "Dydaktyka T. Klimanek"
   navbar:
     left:
       - href: index.qmd
